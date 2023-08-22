@@ -1,6 +1,0 @@
-streamlit == 22.0.3
-pip streamlit > requirements.txt
-mysql-connector-python > requirements.txt
-pip pandas > requirements.txt
-pip matplotlib > requirements.txt
-pip seaborn > requirements.txt
