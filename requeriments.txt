@@ -1,6 +1,6 @@
 streamlit
 pandas
 pandas_profiling
-matplotlib.pyplot
+matplotlib
 seaborn
 streamlit_pandas_profiling
